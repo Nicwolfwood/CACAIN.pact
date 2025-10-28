@@ -214,96 +214,39 @@
     "featured_product_kwd99X": {
       "type": "featured-product",
       "blocks": {
-        "vendor_Btb8Jb": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_DH8LGD": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
           }
         },
-        "badges_4UzXH9": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_mArY8m": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rating_fimXnJ": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator_byf9Mk": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description_43M79a": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
-        "variant_picker_B8NPxV": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_TKMPPh": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy_buttons_wkGt9y": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
             "atc_button_background": "",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
-        },
-        "pickup_availability_NTfUtf": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
-        "vendor_Btb8Jb",
         "title_DH8LGD",
-        "badges_4UzXH9",
-        "price_mArY8m",
-        "rating_fimXnJ",
-        "separator_byf9Mk",
-        "description_43M79a",
-        "variant_picker_B8NPxV",
-        "quantity_selector_TKMPPh",
-        "buy_buttons_wkGt9y",
-        "pickup_availability_NTfUtf"
+        "buy_buttons_wkGt9y"
       ],
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "",
+        "product": "leggings-3d-anticellulite-ridefinisci-la-tua-silhouette-senza-sforzo",
         "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
+        "desktop_media_layout": "carousel_thumbnails_bottom",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
+        "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
-        "enable_image_zoom": true,
+        "enable_image_zoom": false,
         "max_image_zoom_level": 3,
         "background": "",
         "background_gradient": "",
