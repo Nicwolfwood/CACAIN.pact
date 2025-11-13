@@ -32,7 +32,7 @@
         "links_YHJykY": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "link-utili",
             "show_menu_title": true
           }
         }
