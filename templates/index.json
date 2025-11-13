@@ -590,7 +590,7 @@
         "heading_ktwxEn": {
           "type": "heading",
           "settings": {
-            "text": "Finalmente, I leggings testati clinicamente che agiscono sulla VERA causa della cellulite",
+            "text": "Finalmente, la soluzione vera contro la cellulite",
             "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
@@ -1042,7 +1042,7 @@
       ],
       "name": "SS - Product Reviews",
       "settings": {
-        "reviews_position": "above_buy",
+        "reviews_position": "below_buy",
         "reviews_meta": "",
         "reviews_radius": 0,
         "review_padding_vertical": 8,
@@ -1096,6 +1096,81 @@
         "border_thickness": 0,
         "lazy": true
       }
+    },
+    "text_with_icons_ed7qyB": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_H4mfnM": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-truck",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Spedizione veloce",
+            "content": ""
+          }
+        },
+        "item_xLG48b": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Pagamenti sicuri",
+            "content": ""
+          }
+        },
+        "item_YTYbiB": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-return",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Garanzia di rimborso di 30 giorni",
+            "content": ""
+          }
+        },
+        "item_ncEcy4": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-question",
+            "mobile_icon_width": 36,
+            "icon_width": 36,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Assistenza 24/7",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_H4mfnM",
+        "item_xLG48b",
+        "item_YTYbiB",
+        "item_ncEcy4"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -1119,6 +1194,7 @@
     "17630430156b2dd685",
     "faq_iaz9im",
     "1763043197689ecb33",
-    "reviewsptoduct_7qWLJy"
+    "reviewsptoduct_7qWLJy",
+    "text_with_icons_ed7qyB"
   ]
 }
