@@ -1001,102 +1001,6 @@
         "review_button_text_color": "#ffffff"
       }
     },
-    "reviewsptoduct_7qWLJy": {
-      "type": "Reviewsptoduct",
-      "blocks": {
-        "review_FjxGkx": {
-          "type": "review",
-          "settings": {
-            "image": "shopify://shop_images/ImageAvis1_1.webp",
-            "hide_image": false,
-            "author": "Carla M.",
-            "stars_count": 5,
-            "text": "Ero scettica ma questi leggings hanno eliminato completamente la mia cellulite! Li indosso dopo il lavoro e in pochi giorni la pelle era perfetta, soprattutto sulle cosce. Addio cellulite per sempre, non ci credevo fosse possibile!"
-          }
-        },
-        "review_jFXNBF": {
-          "type": "review",
-          "settings": {
-            "image": "shopify://shop_images/ImageAvis2_1.webp",
-            "hide_image": false,
-            "author": "Anna W.",
-            "stars_count": 5,
-            "text": "Avevo vergogna delle mie gambe a causa della cellulite. Questi leggings hanno fatto sparire definitivamente ogni traccia. Dopo due settimane mia figlia ha notato che le gambe erano perfette. Ora zero cellulite, sono la mia salvezza!"
-          }
-        },
-        "review_zW9dzT": {
-          "type": "review",
-          "settings": {
-            "image": "shopify://shop_images/ImageAvis3_1.webp",
-            "hide_image": false,
-            "author": "Jilliana L.",
-            "stars_count": 5,
-            "text": "Pensavo che la cellulite fosse impossibile da eliminare alla mia età. Invece questi leggings l'hanno cancellata totalmente! Comodissimi e dopo due settimane cellulite completamente sparita. Miracoloso, ora mi sento bellissima!"
-          }
-        }
-      },
-      "block_order": [
-        "review_FjxGkx",
-        "review_jFXNBF",
-        "review_zW9dzT"
-      ],
-      "name": "SS - Product Reviews",
-      "settings": {
-        "reviews_position": "below_buy",
-        "reviews_meta": "",
-        "reviews_radius": 0,
-        "review_padding_vertical": 8,
-        "review_padding_horizontal": 8,
-        "review_radius": 8,
-        "review_border_thickness": 0,
-        "image_width": 60,
-        "image_radius": 8,
-        "image_border_thickness": 0,
-        "image_ratio": "square",
-        "stars_size": 14,
-        "author_custom": true,
-        "author_font": "barlow_n4",
-        "author_size": 14,
-        "author_size_mobile": 14,
-        "author_height": 130,
-        "text_custom": true,
-        "text_font": "barlow_n4",
-        "text_size": 12,
-        "text_size_mobile": 12,
-        "text_height": 130,
-        "text_mt": 4,
-        "arrow_size": 24,
-        "arrow_size_mobile": 24,
-        "arrow_icon_size": 16,
-        "arrow_icon_size_mobile": 16,
-        "arrow_border_thickness": 0,
-        "arrow_show_desktop": true,
-        "arrow_show_mobile": true,
-        "review_bg_color": "#fbf2ee",
-        "review_border_color": "#000000",
-        "image_border_color": "#000000",
-        "author_color": "#000000",
-        "text_color": "#000000",
-        "arrow_color": "#000000",
-        "arrow_hover_color": "#000000",
-        "arrow_bg_color": "#f3f3f3",
-        "arrow_bg_hover_color": "#dddddd",
-        "arrow_border_color": "#f3f3f3",
-        "arrow_border_hover_color": "#dddddd",
-        "stars_color": "#000000",
-        "background_color": "#f3f3f3",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 10,
-        "margin_bottom": 10,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "border_thickness": 0,
-        "lazy": true
-      }
-    },
     "text_with_icons_ed7qyB": {
       "type": "text-with-icons",
       "blocks": {
@@ -1171,6 +1075,102 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "reviews_RxjHhE": {
+      "type": "reviews",
+      "blocks": {
+        "review_k8VxcF": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/ImageAvis1_1.webp",
+            "hide_image": false,
+            "author": "Lori C.",
+            "stars_count": 5,
+            "text": "Ero scettica ma questi leggings hanno eliminato completamente la mia cellulite! Li indosso dopo il lavoro e in pochi giorni la pelle era perfetta, soprattutto sulle cosce. Addio cellulite per sempre, non ci credevo fosse possibile!"
+          }
+        },
+        "review_LU3iGh": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/ImageAvis2_1.webp",
+            "hide_image": false,
+            "author": "Carla B.",
+            "stars_count": 5,
+            "text": "Avevo vergogna delle mie gambe a causa della cellulite. Questi leggings hanno fatto sparire definitivamente ogni traccia. Dopo due settimane mia figlia ha notato che le gambe erano perfette. Ora zero cellulite, sono la mia salvezza!"
+          }
+        },
+        "review_MYLaiU": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/ImageAvis3_1.webp",
+            "hide_image": false,
+            "author": "Jilliana H.",
+            "stars_count": 5,
+            "text": "Pensavo che la cellulite fosse impossibile da eliminare alla mia età. Invece questi leggings l'hanno cancellata totalmente! Comodissimi e dopo due settimane cellulite completamente sparita. Miracoloso, ora mi sento bellissima!"
+          }
+        }
+      },
+      "block_order": [
+        "review_k8VxcF",
+        "review_LU3iGh",
+        "review_MYLaiU"
+      ],
+      "name": "SS - Product Reviews",
+      "settings": {
+        "reviews_position": "above_buy",
+        "reviews_meta": "",
+        "reviews_radius": 0,
+        "review_padding_vertical": 8,
+        "review_padding_horizontal": 8,
+        "review_radius": 8,
+        "review_border_thickness": 0,
+        "image_width": 60,
+        "image_radius": 8,
+        "image_border_thickness": 0,
+        "image_ratio": "square",
+        "stars_size": 14,
+        "author_custom": true,
+        "author_font": "barlow_n4",
+        "author_size": 14,
+        "author_size_mobile": 14,
+        "author_height": 130,
+        "text_custom": true,
+        "text_font": "barlow_n4",
+        "text_size": 12,
+        "text_size_mobile": 12,
+        "text_height": 130,
+        "text_mt": 4,
+        "arrow_size": 24,
+        "arrow_size_mobile": 24,
+        "arrow_icon_size": 16,
+        "arrow_icon_size_mobile": 16,
+        "arrow_border_thickness": 0,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": true,
+        "review_bg_color": "#fbf2ee",
+        "review_border_color": "#000000",
+        "image_border_color": "#000000",
+        "author_color": "#000000",
+        "text_color": "#000000",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#000000",
+        "arrow_bg_color": "#F3F3F3",
+        "arrow_bg_hover_color": "#DDDDDD",
+        "arrow_border_color": "#F3F3F3",
+        "arrow_border_hover_color": "#DDDDDD",
+        "stars_color": "#000000",
+        "background_color": "#F3F3F3",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 10,
+        "margin_bottom": 10,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "border_thickness": 0,
+        "lazy": true
+      }
     }
   },
   "order": [
@@ -1194,7 +1194,7 @@
     "17630430156b2dd685",
     "faq_iaz9im",
     "1763043197689ecb33",
-    "reviewsptoduct_7qWLJy",
-    "text_with_icons_ed7qyB"
+    "text_with_icons_ed7qyB",
+    "reviews_RxjHhE"
   ]
 }
