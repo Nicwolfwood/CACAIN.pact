@@ -427,6 +427,11 @@
   "shopify": {
     "links": {
       "powered_by_shopify": " "
+    },
+    "checkout": {
+      "general": {
+        "pay_now_button_label": "ACCETTA L'OFFERTA"
+      }
     }
   }
 }
