@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "page": "Pagina {{ page }}",
@@ -36,7 +45,7 @@
       "subscribed_successfully": "Ti sei iscritto alla nostra newsletter."
     },
     "localization": {
-      "country": "Paese\/Area geografica",
+      "country": "Paese/Area geografica",
       "language": "Lingua"
     },
     "privacy_bar": {
@@ -84,7 +93,7 @@
       "view_in_space": "Visualizza nel tuo spazio",
       "taxes_included": "Tasse incluse.",
       "taxes_excluded": "Tasse escluse.",
-      "shipping_policy_html": "<a href=\"{{ link }}\" class=\"link\">Spedizione calcolata<\/a> al checkout",
+      "shipping_policy_html": "<a href=\"{{ link }}\" class=\"link\">Spedizione calcolata</a> al checkout",
       "size_chart": "Tabella taglie",
       "available_colors_count": {
         "one": "{{ count }} colore disponibile",
@@ -392,7 +401,7 @@
   "password": {
     "general": {
       "follow_us": "Seguici",
-      "powered_by": "Questo negozio è stato offerto da",
+      "powered_by": " ",
       "store_owner": "Sei il proprietario del negozio?",
       "login": "Accedi"
     },
@@ -413,6 +422,11 @@
         "one": "Questo prodotto ha {{ count }} recensione.",
         "other": "Questo prodotto ha {{ count }} recensioni."
       }
+    }
+  },
+  "shopify": {
+    "links": {
+      "powered_by_shopify": " "
     }
   }
 }
