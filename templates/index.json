@@ -1010,9 +1010,9 @@
             "icon": "picto-truck",
             "mobile_icon_width": 36,
             "icon_width": 36,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
+            "icon_background_type": "circle",
+            "icon_background": "#772647",
+            "icon_color": "#ffffff",
             "title": "Spedizione veloce",
             "content": ""
           }
@@ -1023,9 +1023,9 @@
             "icon": "picto-lock",
             "mobile_icon_width": 36,
             "icon_width": 36,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
+            "icon_background_type": "circle",
+            "icon_background": "#772647",
+            "icon_color": "#ffffff",
             "title": "Pagamenti sicuri",
             "content": ""
           }
@@ -1036,9 +1036,9 @@
             "icon": "picto-return",
             "mobile_icon_width": 36,
             "icon_width": 36,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
+            "icon_background_type": "circle",
+            "icon_background": "#772647",
+            "icon_color": "#ffffff",
             "title": "Garanzia di rimborso di 30 giorni",
             "content": ""
           }
@@ -1049,9 +1049,9 @@
             "icon": "picto-question",
             "mobile_icon_width": 36,
             "icon_width": 36,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
+            "icon_background_type": "circle",
+            "icon_background": "#772647",
+            "icon_color": "#ffffff",
             "title": "Assistenza 24/7",
             "content": ""
           }
